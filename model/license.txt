@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamborghini Murcielago 2001
+* source:	https://sketchfab.com/3d-models/lamborghini-murcielago-2001-3be98a3c092640cd9e4772e4dfcd8337
+* author:	Alex.Ka. (https://sketchfab.com/Alex.Ka.)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamborghini Murcielago 2001" (https://sketchfab.com/3d-models/lamborghini-murcielago-2001-3be98a3c092640cd9e4772e4dfcd8337) by Alex.Ka. (https://sketchfab.com/Alex.Ka.) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
